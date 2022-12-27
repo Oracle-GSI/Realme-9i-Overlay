@@ -1,7 +1,7 @@
 # Realme-9i-Overlay
-Auto-brightness
-Punch hole notch
-Stock power profile
-Auto wifi connection
-dt2w
-otg (not tested)
+- Auto-brightness
+- Punch hole notch
+- Stock power profile
+- Auto wifi connection
+- dt2w
+- otg (not tested)
