@@ -4,4 +4,3 @@
 - Stock power profile
 - Auto wifi connection
 - dt2w
-- otg (not tested)
