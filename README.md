@@ -1,4 +1,4 @@
-# Realme-9i-Overlay
+# Realme-9i-Overlay that fixes the following:
 - Auto-brightness
 - Punch hole notch
 - Stock power profile
